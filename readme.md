@@ -7,7 +7,7 @@ Add a symbol to the `▲ active tab` in your hyper terminal.
 
 <div align="center">
 <p>
-<img alt="demo" src="demo/default.png" width="400px" />
+<img alt="demo" src="demo/default.png" width="500px" />
 </p>
 </div>
 
@@ -31,7 +31,7 @@ module.exports = {
 
 <div align="center">
 <p>
-<img alt="demo pizza emoji" src="demo/pizza.png" width="400px" />
+<img alt="demo pizza emoji" src="demo/pizza.png" width="500px" />
 </p>
 </div>
 
@@ -52,6 +52,6 @@ module.exports = {
 
 <div align="center">
 <p>
-<img alt="demo yellow sun" src="demo/yellow-sun.png" width="400px" />
+<img alt="demo yellow sun" src="demo/yellow-sun.png" width="500px" />
 </p>
 </div>
