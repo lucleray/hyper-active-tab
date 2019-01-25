@@ -1,6 +1,6 @@
 {
   "name": "hyper-active-tab",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "keywords": ["hyper", "hyper-plugin", "tab", "active-tab"],
   "description": "Add a symbol to the active tab in your hyper terminal.",
   "main": "index.js",
