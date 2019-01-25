@@ -21,7 +21,6 @@ module.exports.decorateConfig = config => {
       content: "${activeTab.symbol} ";
       color: ${activeTab.color};
       opacity: 0;
-      color: 
     }
     .tabs_nav .tab_active span span:before { 
       opacity: 1 !important; 
